@@ -100,7 +100,7 @@ For the last part of the flag, it time to investigate the last part of the poems
 
 `I love welcome messages`
 
-The hint is about welcom messages. it must be realted with MOTD (Message Of The Day) file. Checking the directory `/etc/update.motd.d` we can see the last obfuscated string. 
+The hint is about welcom messages. it must be related with MOTD (Message Of The Day) file. Checking the directory `/etc/update.motd.d` we can see the last obfuscated string. 
 
 ![App Screenshot](https://github.com/Muaz1425/Hide-and-Seek-room/blob/main/Images/HideAndSeekPart5.png)
 
